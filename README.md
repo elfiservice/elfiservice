@@ -23,6 +23,9 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/elfiservice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/armando-junior-elfiservice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/elfiservice" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<figure><embed src="https://wakatime.com/share/@710dc7b1-1e26-4e5e-a1e2-41bba79ac253/b38d44f4-46e0-44a0-99c3-3466ceb4c743.svg"></embed></figure>
+
 <!--
 **elfiservice/elfiservice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
