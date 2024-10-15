@@ -18,7 +18,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP&logoColor=blue)
 ![JQuery](https://img.shields.io/badge/-Jquery-white?style=flat-square&logo=jquery&logoColor=blue)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=kotlin)
+![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp)
 
 ### Socials
 
